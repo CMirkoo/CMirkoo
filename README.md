@@ -10,7 +10,7 @@ Nel tempo libero mi dedico a piccoli progetti di machine learning, deep learning
 
 ### 🧠 Competenze principali
 - **Linguaggi:** Python  
-- **Framework e librerie:** FastAPI, Flask, PyTorch, Scikit-learn, LangChain, LangGraph, Pandas, Numpy  
+- **Framework e librerie:** FastAPI, PyTorch, Scikit-learn, LangChain, LangGraph, Pandas, Numpy  
 - **Database e Cloud:** MySQL, MongoDB, DynamoDB, Docker, AWS  
 - **Aree di interesse:** Machine Learning, Deep Learning, NLP, automazione, agenti AI  
 - **Soft skills:** problem solving, pensiero logico, curiosità e determinazione
