@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Mirko Cazzola
+# Ciao, sono Mirko Cazzola
 
 Sono uno sviluppatore con una forte passione per l’intelligenza artificiale e tutto ciò che riguarda l’automazione e la programmazione.  
 Dopo aver completato un **Master in AI Development (EQF 6)**, sto proseguendo il mio percorso accademico in **Informatica per le Aziende Digitali – curriculum Artificial Intelligence**, per approfondire ancora di più l’uso pratico delle tecnologie AI nel mondo reale.
@@ -8,7 +8,7 @@ Nel tempo libero mi dedico a piccoli progetti di machine learning, deep learning
 
 ---
 
-### 🧠 Competenze principali
+### Competenze principali
 - **Linguaggi:** Python  
 - **Framework e librerie:** FastAPI, PyTorch, Scikit-learn, LangChain, LangGraph, Pandas, Numpy  
 - **Database e Cloud:** MySQL, MongoDB, DynamoDB, Docker, AWS  
@@ -17,7 +17,7 @@ Nel tempo libero mi dedico a piccoli progetti di machine learning, deep learning
 
 ---
 
-### 🚀 Cosa puoi trovare qui
+### Cosa puoi trovare qui
 Nel mio profilo pubblico raccolgo i progetti su cui sto lavorando o che ho realizzato durante i miei studi:  
 - modelli di machine learning e deep learning  
 - esperimenti con modelli linguistici e agenti AI  
