@@ -4,7 +4,7 @@ Sono uno sviluppatore con una forte passione per l’intelligenza artificiale e 
 Dopo aver completato un **Master in AI Development (EQF 6)**, sto proseguendo il mio percorso accademico in **Informatica per le Aziende Digitali – curriculum Artificial Intelligence**, per approfondire ancora di più l’uso pratico delle tecnologie AI nel mondo reale.
 
 Mi piace capire come funzionano le cose, sperimentare nuove idee e trasformarle in soluzioni concrete.  
-Nel tempo libero mi dedico a piccoli progetti di machine learning, deep learning e automazione, cercando sempre di imparare qualcosa di nuovo.
+Nel tempo libero mi dedico a piccoli progetti di machine learning, deep learning e automazione.
 
 ---
 
